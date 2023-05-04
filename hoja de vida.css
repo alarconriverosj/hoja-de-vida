@@ -1,0 +1,217 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #EEEBD3;
+}
+
+.name {
+    width: 100%;
+    height: 300px;
+    background: #437C90;
+    transform: skewY(-5deg);
+}
+
+.name .content{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 25%;
+}
+.name .content .p-1{
+    color: #fff;
+    font-family: 'Baloo Tamma2', sans-serif;
+    font-weight: bolder;
+    font-size: 45px;
+    transform: skewY(+5deg);
+    margin-bottom:0 ;
+}
+
+
+.name .content .p-2{
+    color: #fff;
+    font-family: 'Baloo Tamma2', sans-serif;
+    font-size: 20px;
+    transform: skewY(+5deg);
+    margin-bottom: 0;
+}
+
+
+.info{
+    width: 90%;
+    height: auto;
+background: #437C90;
+margin: 5% auto;
+padding: 20px;
+
+}
+.info .titlesup{
+    color: #fff;
+    font-family: 'Baloo Tamma 2', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px #EEEBD3 solid; 
+}
+
+.info .titleinfo{
+    color: #fff;
+    font-family: 'Baloo Tamma 2', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+}
+
+.info .infoinfo{
+    color:#FFF;
+    font-family: 'Baloo Tamma 2', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display: inline;
+}
+
+.info .infotel {
+    color: #fff;
+    font-family: 'Baloo Tamma 2', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+}
+
+.info .teltel {
+    color: #fff;
+    font-family: 'Baloo Tamma 2', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+}
+
+.info .correo{
+    color: #fff;
+    font-family: 'Baloo Tamma 2', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+}
+
+.info .correoinf {
+    color: #fff;
+    font-family: 'Baloo Tamma 2', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+}
+
+.info .dir {
+    color: #fff;
+    font-family: 'Baloo Tamma 2', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+}
+
+.info .dirinfo {
+    color: #fff;
+    font-family: 'Baloo Tamma 2', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+}
+
+.Kcano{
+    width: 90%;
+    height: auto;
+background: #437C90;
+margin: 5% auto;
+padding: 20px;
+
+}
+
+.Kcano .perfil{
+    color: #fff;
+    font-family: 'Baloo Tamma 2', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px #EEEBD3 solid; 
+}
+
+.Kcano .descriperf {
+    color: #fff;
+    font-family: 'Baloo Tamma 2', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+
+}
+
+.Kcano .inforperf {
+    color: #fff;
+    font-family: 'Baloo Tamma 2', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+}
+
+.educacion{
+    width: 90%;
+    height: auto;
+    background: #437C90;
+    margin: 5% auto;
+    padding: 20px;
+
+}
+
+.educacion .edutitle{
+    color: #fff;
+    font-family: 'Baloo Tamma 2', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px #EEEBD3 solid; 
+}
+
+.educacion .colegioga {
+    color: #fff;
+    font-family: 'Baloo Tamma 2', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+}
+
+
+.educacion .colegiogap-1 {
+    color: #fff;
+    font-family: 'Baloo Tamma 2', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+}
+
+.educacion .edutec {
+    color: #fff;
+    font-family: 'Baloo Tamma 2', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+}
+
+.educacion .edutec-1 {
+    color: #fff;
+    font-family: 'Baloo Tamma 2', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+}
